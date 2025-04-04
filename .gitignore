@@ -164,4 +164,5 @@ cython_debug/
 # ------ FILE DA IGNORARE -------
 /Additional_data
 /Main_data
+/File_normalizzati
 *.pdf
