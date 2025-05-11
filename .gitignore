@@ -166,3 +166,4 @@ cython_debug/
 /Main_data
 /File_normalizzati
 *.pdf
+/.idea
